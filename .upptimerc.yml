@@ -5,10 +5,18 @@ repo: psr-upptime # The name of this repository
 sites:
   - name: Live Public Site
     url: https://practicesightreading.com
-  - name: Music Builder
-    url: https://build.practicesightreading.com/__health
+  - name: Music Builder Health Endpoint
+    url: $BUILD_SERVER/__health
+  - name: Request music from Music Builder
+    url: $BUILD_SERVER/request
+    method: POST
+  - name: Staging Server
+    url: $STAGING_SERVER
   - name: Image Server
     url: https://i.practicesightreading.com/
+
+assignees: # Users to assign downtime issues (optional)
+  - jessgusclark
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,14 +24,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /psr-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: PSR Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Practice Sight Reading Upptime
+  introTitle: Realtime status of Practice Sight Reading. 
+  introMessage: This site checks the status of the website, however, if you find issues please let Jesse know at <a href="mailto:jesse@practicesightreading.com">jesse@practicesightreading.com</a>
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Live Site
+      href: https://practicesightreading.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
