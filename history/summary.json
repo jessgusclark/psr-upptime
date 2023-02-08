@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/practicesightreading.com.ico",
     "slug": "live-public-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 252,
-    "timeDay": 353,
-    "timeWeek": 295,
-    "timeMonth": 226,
-    "timeYear": 252,
-    "dailyMinutesDown": {
-      "2023-02-07": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 250,
+    "timeDay": 258,
+    "timeWeek": 268,
+    "timeMonth": 228,
+    "timeYear": 250,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Music Builder Health Endpoint",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 200,
-    "timeWeek": 190,
-    "timeMonth": 211,
-    "timeYear": 196,
+    "time": 198,
+    "timeDay": 275,
+    "timeWeek": 201,
+    "timeMonth": 212,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 46,
-    "timeDay": 37,
-    "timeWeek": 43,
+    "time": 47,
+    "timeDay": 74,
+    "timeWeek": 47,
     "timeMonth": 51,
-    "timeYear": 46,
+    "timeYear": 47,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 196,
-    "timeDay": 162,
-    "timeWeek": 184,
-    "timeMonth": 208,
-    "timeYear": 196,
+    "time": 198,
+    "timeDay": 310,
+    "timeWeek": 201,
+    "timeMonth": 210,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2022-12-22": 23,
       "2022-12-21": 34
@@ -87,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 184,
-    "timeWeek": 203,
-    "timeMonth": 177,
-    "timeYear": 194,
+    "time": 191,
+    "timeDay": 52,
+    "timeWeek": 177,
+    "timeMonth": 176,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   }
 ]
