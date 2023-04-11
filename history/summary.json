@@ -79,17 +79,17 @@
     "url": "https://i.practicesightreading.com/",
     "icon": "https://icons.duckduckgo.com/ip3/i.practicesightreading.com.ico",
     "slug": "image-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 262,
-    "timeWeek": 226,
-    "timeMonth": 222,
-    "timeYear": 220,
+    "time": 221,
+    "timeDay": 304,
+    "timeWeek": 241,
+    "timeMonth": 226,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   }
 ]
