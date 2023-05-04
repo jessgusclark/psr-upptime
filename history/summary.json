@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 124,
-    "timeWeek": 191,
-    "timeMonth": 224,
+    "timeDay": 258,
+    "timeWeek": 175,
+    "timeMonth": 217,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "music-builder-health-endpoint",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 277,
-    "timeWeek": 231,
-    "timeMonth": 203,
+    "timeDay": 244,
+    "timeWeek": 239,
+    "timeMonth": 207,
     "timeYear": 184,
-    "dailyMinutesDown": {
-      "2023-05-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Request music from Music Builder",
@@ -44,18 +42,16 @@
     "slug": "request-music-from-music-builder",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 74,
-    "timeWeek": 59,
-    "timeMonth": 50,
+    "timeDay": 65,
+    "timeWeek": 61,
+    "timeMonth": 51,
     "timeYear": 43,
-    "dailyMinutesDown": {
-      "2023-05-03": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging Server",
@@ -69,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 179,
-    "timeDay": 244,
-    "timeWeek": 201,
-    "timeMonth": 193,
+    "timeDay": 127,
+    "timeWeek": 208,
+    "timeMonth": 196,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2022-12-22": 23,
@@ -90,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 47,
-    "timeWeek": 143,
-    "timeMonth": 188,
+    "timeDay": 224,
+    "timeWeek": 139,
+    "timeMonth": 183,
     "timeYear": 212,
     "dailyMinutesDown": {}
   }
