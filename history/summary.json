@@ -40,19 +40,19 @@
     "url": "$BUILD_SERVER/request",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-music-from-music-builder",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 8921,
-    "timeWeek": 2265,
-    "timeMonth": 575,
-    "timeYear": 147,
+    "time": 152,
+    "timeDay": 6322,
+    "timeWeek": 2139,
+    "timeMonth": 590,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 5
     }
   },
   {
