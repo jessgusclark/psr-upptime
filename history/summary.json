@@ -4,18 +4,20 @@
     "url": "https://practicesightreading.com",
     "icon": "https://icons.duckduckgo.com/ip3/practicesightreading.com.ico",
     "slug": "live-public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 403,
-    "timeWeek": 293,
-    "timeMonth": 273,
+    "timeDay": 123,
+    "timeWeek": 261,
+    "timeMonth": 262,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-19": 0
+    }
   },
   {
     "name": "Music Builder Health Endpoint",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 78,
-    "timeWeek": 174,
-    "timeMonth": 189,
+    "timeDay": 245,
+    "timeWeek": 186,
+    "timeMonth": 196,
     "timeYear": 188,
     "dailyMinutesDown": {}
   },
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 18,
-    "timeWeek": 37,
-    "timeMonth": 631,
-    "timeYear": 142,
+    "time": 141,
+    "timeDay": 62,
+    "timeWeek": 41,
+    "timeMonth": 632,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 183,
-    "timeDay": 112,
-    "timeWeek": 158,
-    "timeMonth": 182,
+    "timeDay": 260,
+    "timeWeek": 173,
+    "timeMonth": 190,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2022-12-22": 23,
@@ -85,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 284,
-    "timeWeek": 231,
-    "timeMonth": 226,
-    "timeYear": 210,
+    "time": 209,
+    "timeDay": 103,
+    "timeWeek": 207,
+    "timeMonth": 219,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   }
 ]
