@@ -4,10 +4,10 @@
     "url": "https://practicesightreading.com",
     "icon": "https://icons.duckduckgo.com/ip3/practicesightreading.com.ico",
     "slug": "live-public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 262,
@@ -16,6 +16,7 @@
     "timeMonth": 273,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2023-07-17": 1,
       "2023-06-19": 26
     }
   },
@@ -81,9 +82,9 @@
     "url": "https://i.practicesightreading.com/",
     "icon": "https://icons.duckduckgo.com/ip3/i.practicesightreading.com.ico",
     "slug": "image-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,6 +93,8 @@
     "timeWeek": 242,
     "timeMonth": 230,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-17": 0
+    }
   }
 ]
