@@ -4,9 +4,9 @@
     "url": "https://practicesightreading.com",
     "icon": "https://icons.duckduckgo.com/ip3/practicesightreading.com.ico",
     "slug": "live-public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "99.78%",
@@ -16,6 +16,7 @@
     "timeMonth": 270,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-07-18": 403,
       "2023-07-17": 263,
       "2023-06-19": 26
