@@ -4,7 +4,7 @@
     "url": "https://practicesightreading.com",
     "icon": "https://icons.duckduckgo.com/ip3/practicesightreading.com.ico",
     "slug": "live-public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 242,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2023-08-13": 0,
       "2023-07-18": 403,
       "2023-07-17": 263,
       "2023-06-19": 26
@@ -85,9 +86,9 @@
     "slug": "image-server",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.81%",
     "time": 210,
     "timeDay": 44,
@@ -95,7 +96,7 @@
     "timeMonth": 206,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-08-13": 0,
+      "2023-08-13": 8,
       "2023-07-18": 403,
       "2023-07-17": 262
     }
