@@ -28,10 +28,10 @@
     "url": "$BUILD_SERVER/__health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "music-builder-health-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -39,7 +39,9 @@
     "timeWeek": 171,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 1
+    }
   },
   {
     "name": "Request music from Music Builder",
