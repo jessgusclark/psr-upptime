@@ -28,10 +28,10 @@
     "url": "$BUILD_SERVER/__health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "music-builder-health-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
@@ -39,16 +39,18 @@
     "timeWeek": 217,
     "timeMonth": 239,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 1
+    }
   },
   {
     "name": "Request music from Music Builder",
     "url": "$BUILD_SERVER/request",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-music-from-music-builder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +59,9 @@
     "timeWeek": 46,
     "timeMonth": 687,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "Staging Server",
