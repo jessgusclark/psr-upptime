@@ -4,10 +4,10 @@
     "url": "https://practicesightreading.com",
     "icon": "https://icons.duckduckgo.com/ip3/practicesightreading.com.ico",
     "slug": "live-public-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
     "time": 243,
@@ -16,7 +16,7 @@
     "timeMonth": 191,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-01-06": 38,
+      "2024-01-06": 40,
       "2023-08-14": 315,
       "2023-08-13": 112,
       "2023-07-18": 403,
@@ -29,10 +29,10 @@
     "url": "$BUILD_SERVER/__health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "music-builder-health-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 196,
@@ -41,7 +41,7 @@
     "timeMonth": 223,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2024-01-06": 37
+      "2024-01-06": 39
     }
   },
   {
@@ -49,11 +49,11 @@
     "url": "$BUILD_SERVER/request",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-music-from-music-builder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 144,
     "timeDay": 44,
@@ -61,7 +61,7 @@
     "timeMonth": 56,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-01-06": 37
+      "2024-01-06": 38
     }
   },
   {
@@ -69,10 +69,10 @@
     "url": "$STAGING_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "staging-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 189,
@@ -81,7 +81,7 @@
     "timeMonth": 219,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-01-06": 36
+      "2024-01-06": 37
     }
   },
   {
@@ -89,9 +89,9 @@
     "url": "https://i.practicesightreading.com/",
     "icon": "https://icons.duckduckgo.com/ip3/i.practicesightreading.com.ico",
     "slug": "image-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.51%",
+    "uptimeDay": "97.50%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.78%",
